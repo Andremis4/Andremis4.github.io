@@ -5,7 +5,15 @@ body {
    background-repeat: no-repeat;
    font-family: 'Lato', sans-serif;
 }
-
+.fa-linkedin-in{
+    color: black;
+}
+.fa-envelope{
+    color: black;
+}
+.fa-square-whatsapp{
+    color: black;
+}
 p,h1,h2,h3,h4, li {
     font-family: 'Lato', sans-serif;
     color: antiquewhite !important; 
